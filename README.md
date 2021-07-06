@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChINTu0710
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Python 
 - 📫 How to reach me https://t.me/SU_DH_EER
 
 
